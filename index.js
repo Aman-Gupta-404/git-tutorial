@@ -14,4 +14,13 @@ conssole.log("this is my third feature");
 - git commit -m "your message" --> commits your changes locally
 - git push
 
+# create new branch
+git checkout -b <branch-name>
+
+# move to a branch
+git checkout <branch-name>
+
+# merge branch
+git merge <branch-name>
+
  */
